@@ -2,8 +2,8 @@
 "# csucs " 
 Happiness
 New info
-changed
+mush
 Conflicted
-new edit
+little sense is made
 A number of new changes are needed to keep going.
-different
+little sense is made
