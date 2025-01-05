@@ -10,3 +10,5 @@ little sense is made
 
 
 Oh no, magic minuite maid hotifxes completed!?
+
+The true issue was just to add unicode support I think.
