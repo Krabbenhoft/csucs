@@ -7,4 +7,8 @@ Conflicted
 little sense is made
 A number of new changes are needed to keep going.
 little sense is made
-also update read me
+
+
+Oh no, magic minuite maid hotifxes completed!?
+
+The true issue was just to add unicode support I think.
