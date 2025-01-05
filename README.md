@@ -7,4 +7,6 @@ New data added on line six.
 
 New data added on line seven
 
+Conflicted
+
 A number of new changes are needed to keep going.
